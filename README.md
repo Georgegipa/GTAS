@@ -1,10 +1,10 @@
-# A python scrapper for the news of the greek train company TRAINOSE
+# (GTAS) GreekTrain Announcements Scraper 
 
 This is a small simple scrapper I made in an afternoon to get the latest news of the greek trains. I made it because I wanted to get the latest news of the company and I didn't want to manually check the website every day. It scrapes the news from their [website](https://www.hellenictrain.gr/en/announcements) and returns the latest news articles in json format using a simple API.
 
 ## REQUIREMENTS
 * Python 3.8
-* Pipenv
+* Venv
 * Pip
 
 ## Installation
